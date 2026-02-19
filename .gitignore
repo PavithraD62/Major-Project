@@ -1,0 +1,8 @@
+﻿__pycache__/
+.venv/
+env/
+*.png
+*.pth
+*.pkl
+*.npy
+uploads/
